@@ -1,7 +1,7 @@
 Package: cjar
 Type: Package
 Title: R Client for 'Customer Journey Analytics' ('CJA') API
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c( 
     person(given = "Ben", family = "Woodard", role = c("aut", "cre"), email = "ben.woodard@searchdiscovery.com"),
     person(given = "Charles", family = "Gallagher", role = c("ctb"), email = "charlesjgallagher15@gmail.com"),
@@ -21,10 +21,10 @@ Imports: assertthat, httr, magrittr, purrr, R6, dplyr, jsonlite, glue,
         jose, tibble, lubridate, progress, vctrs, stringr, rlang,
         memoise, openssl
 NeedsCompilation: no
-Packaged: 2022-02-28 20:35:34 UTC; benwoodard
+Packaged: 2022-04-17 18:42:17 UTC; ben.woodard
 Author: Ben Woodard [aut, cre],
   Charles Gallagher [ctb],
   Search Discovery, LLC [cph]
 Maintainer: Ben Woodard <ben.woodard@searchdiscovery.com>
 Repository: CRAN
-Date/Publication: 2022-03-02 08:20:02 UTC
+Date/Publication: 2022-04-17 19:12:37 UTC
